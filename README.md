@@ -1,2 +1,0 @@
-# TodoList
-Dummy todo-list
